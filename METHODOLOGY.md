@@ -1,8 +1,7 @@
 # Hierarchical Self-Updating Prompt Architecture
 ## A Comprehensive Methodology for Large-Scale AI Development Projects
 
-**Version:** 1.0  
-**Author:** Máté Lakatos 
+**Version:** 1.2   
 **License:** MIT / Creative Commons  
 **Last Updated:** 2025-10-22
 
